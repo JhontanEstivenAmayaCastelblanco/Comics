@@ -9,7 +9,7 @@ export const NabVar = () => {
   return (
 
 
-<div className="bg-dark " >
+<div className="bg-dark">
   <div  className="bg-dark d-flex justify-content-center  " >
     <img   src={img} alt="logo" />
   </div>
